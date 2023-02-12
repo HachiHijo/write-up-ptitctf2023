@@ -1,7 +1,8 @@
+Just For Fun
 Đề bài cho mình một file Just4Fun.rar :
 ![image](https://user-images.githubusercontent.com/101586892/218304582-86f210f3-be30-426f-adcc-40b8b073bc2e.png)
 Mở file crypto2.py ta thấy được source :
-
+'''
 import string
 import random
 flag='this is fake flag'
@@ -11,8 +12,8 @@ flag_array=[]
 check=[]
 key=[]
 for i in range(97,123):
-    alphabet.append(chr(i))
-    key.append(chr(i))
+alphabet.append(chr(i))
+key.append(chr(i))
 
 for i in range(len(flag)):
     flag_array.append(flag[i])
@@ -31,7 +32,7 @@ for i in range(len(alphabet)):
 for i in flag_array:
     ciphertext+=i
 print(ciphertext)
-
+'''
 
 Dựa theo gợi ý ở phần mô tả "vũ điệu lắc hông" và source thì mình biết đây là loại mật mã **Monoalphabetic**
 
