@@ -2,7 +2,7 @@
 Đề bài cho mình một file Just4Fun.rar :
 ![image](https://user-images.githubusercontent.com/101586892/218304582-86f210f3-be30-426f-adcc-40b8b073bc2e.png)
 Mở file crypto2.py ta thấy được source :
-'''
+'''sh
 import string
 import random
 flag='this is fake flag'
@@ -18,7 +18,6 @@ key.append(chr(i))
 for i in range(len(flag)):
     flag_array.append(flag[i])
     check.append(1)
-
 random.shuffle(key)
 key_string=""
 for i in key:
