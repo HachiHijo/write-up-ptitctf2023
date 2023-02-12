@@ -3,7 +3,7 @@
 Mở file crypto2.py ta thấy được source :
 '''
 import string
-import random
+'''import random
 flag='this is fake flag'
 ciphertext=''
 alphabet=[]
