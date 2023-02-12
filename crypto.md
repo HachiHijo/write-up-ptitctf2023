@@ -34,6 +34,7 @@ print(ciphertext)
 
 
 Dựa theo gợi ý ở phần mô tả "vũ điệu lắc hông" và source thì mình biết đây là loại mật mã **Monoalphabetic**
+
 Mở file **cipher.txt** ta có dòng ciphertext : limh_xwd_oqkl_zndn_ieclithkqv
 Mình sử dụng tool https://www.boxentriq.com/code-breaking/cryptogram 
 Mình thấy một từ giống từ alphabetic nên mình bắt đầu đoán 
