@@ -1,7 +1,8 @@
 Đề bài cho mình một file Just4Fun.rar :
 ![image](https://user-images.githubusercontent.com/101586892/218304582-86f210f3-be30-426f-adcc-40b8b073bc2e.png)
 Mở file crypto2.py ta thấy được source :
-'import string
+'''
+import string
 import random
 flag='this is fake flag'
 ciphertext=''
@@ -29,7 +30,8 @@ for i in range(len(alphabet)):
                 flag_array[j]=key[i]
 for i in flag_array:
     ciphertext+=i
-print(ciphertext)'
+print(ciphertext)
+'''
 
 Dựa theo gợi ý ở phần mô tả "vũ điệu lắc hông" và source thì mình biết đây là loại mật mã **Monoalphabetic**
 Mở file **cipher.txt** ta có dòng ciphertext : limh_xwd_oqkl_zndn_ieclithkqv
