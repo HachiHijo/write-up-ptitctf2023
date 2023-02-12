@@ -1,4 +1,4 @@
-Just For Fun
+# Just For Fun
 Đề bài cho mình một file Just4Fun.rar :
 ![image](https://user-images.githubusercontent.com/101586892/218304582-86f210f3-be30-426f-adcc-40b8b073bc2e.png)
 Mở file crypto2.py ta thấy được source :
